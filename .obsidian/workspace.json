@@ -23,11 +23,9 @@
             "id": "3d98bce800749d5e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "ideas-portfolios/Ideas Portfolios.md",
-                "mode": "source",
-                "source": false
+                "file": "simple-online-store/Funcionalidad-Imagen.png"
               }
             }
           }
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ideas-portfolios/Ideas Portfolios.md",
+                "file": "simple-online-store/Funcionalidad-Imagen.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ideas-portfolios/Ideas Portfolios.md",
+                "file": "simple-online-store/Funcionalidad-Imagen.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ideas-portfolios/Ideas Portfolios.md"
+                "file": "simple-online-store/Funcionalidad-Imagen.png"
               }
             }
           }
@@ -161,8 +159,16 @@
   },
   "active": "3d98bce800749d5e",
   "lastOpenFiles": [
-    "Historial Laboral.md",
+    "simple-online-store/Ficha Tecnica.md",
+    "simple-online-store/Contexto.md",
+    "simple-online-store/Funcionalidad.canvas",
+    "simple-online-store/Funcionalidad-Imagen.png",
+    "Funcionalidad-Imagen.png",
+    "Funcionalidad.png",
+    "Untitled.md",
     "ideas-portfolios/Ideas Portfolios.md",
+    "simple-online-store",
+    "Historial Laboral.md",
     "ideas-portfolios",
     "Readme.md",
     "Que es la Inferencia en Typescript.md"

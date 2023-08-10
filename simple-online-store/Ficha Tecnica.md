@@ -1,0 +1,6 @@
+- PHP
+- Laravel
+- Vue
+- Bootstrap
+- MySQL
+- JavaScript

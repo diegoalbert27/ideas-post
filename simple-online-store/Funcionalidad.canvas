@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"type":"text","text":"## Producto\n---\n### Atributos\n- Nombre\n- Descripción\n- Categoría\n- Precio\n- Precio de Descuento\n- Imagen\n- Disponibilidad\n- Etiquetas\n- Fecha de Lanzamiento\n- Cantidad\n- Cantidad Minima","id":"c2aa9d08f61c599f","x":-260,"y":-640,"width":250,"height":520,"color":"4"},
+		{"id":"d1983be0fce785de","x":-560,"y":-700,"width":250,"height":280,"color":"4","type":"text","text":"## Categoría\n---\n## Atributos\n- Nombre\n- Descripción\n- Subcategoría"},
+		{"id":"96ba66e6a709dd44","x":80,"y":-820,"width":250,"height":260,"color":"4","type":"text","text":"## Imágenes\n---\n### Atributos\n- Imagen\n- Producto"},
+		{"type":"text","text":"## Carrito\n---\n### Atributos\n- Productos\n- Cantidad de Productos\n- Subtotal de Productos\n- Precio Total\n- Estado del Carrito\n\t- Proceso\n\t- Finalizado\n\t- Abandonado\n- Fecha Caducidad\n- Cliente","id":"69e9b971f5407070","x":205,"y":-380,"width":250,"height":520,"color":"1"},
+		{"type":"text","text":"## Clientes\n---\n### Atributos\n- Nombre Completo\n- Email\n- Clave\n- Dirección\n- Teléfono\n- Cuenta Activa","id":"0c408c77c9254097","x":-170,"y":0,"width":250,"height":360,"color":"6"}
+	],
+	"edges":[
+		{"id":"899d5d7cdc0c4ab2","fromNode":"0c408c77c9254097","fromSide":"right","toNode":"69e9b971f5407070","toSide":"bottom"},
+		{"id":"15978da8ecb3395a","fromNode":"c2aa9d08f61c599f","fromSide":"right","toNode":"69e9b971f5407070","toSide":"top"},
+		{"id":"d5e0eeba1412a812","fromNode":"c2aa9d08f61c599f","fromSide":"left","toNode":"d1983be0fce785de","toSide":"bottom"},
+		{"id":"e7e3ffb4ff48dc2c","fromNode":"c2aa9d08f61c599f","fromSide":"top","toNode":"96ba66e6a709dd44","toSide":"left"}
+	]
+}
