@@ -8,29 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bdd50950df9abffe",
+            "id": "3d98bce800749d5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Que es la Inferencia en Typescript.md",
+                "file": "roadmap-diego-hinagas/Diego Hinagas - Web Developer.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "3d98bce800749d5e",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "simple-online-store/Funcionalidad-Imagen.png"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "simple-online-store/Funcionalidad-Imagen.png",
+                "file": "roadmap-diego-hinagas/Diego Hinagas - Web Developer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "simple-online-store/Funcionalidad-Imagen.png",
+                "file": "roadmap-diego-hinagas/Diego Hinagas - Web Developer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "simple-online-store/Funcionalidad-Imagen.png"
+                "file": "roadmap-diego-hinagas/Diego Hinagas - Web Developer.md"
               }
             }
           }
@@ -159,10 +148,12 @@
   },
   "active": "3d98bce800749d5e",
   "lastOpenFiles": [
+    "simple-online-store/Funcionalidad-Imagen.png",
+    "roadmap-diego-hinagas/Diego Hinagas - Web Developer.md",
+    "roadmap-diego-hinagas",
     "simple-online-store/Ficha Tecnica.md",
     "simple-online-store/Contexto.md",
     "simple-online-store/Funcionalidad.canvas",
-    "simple-online-store/Funcionalidad-Imagen.png",
     "Funcionalidad-Imagen.png",
     "Funcionalidad.png",
     "Untitled.md",
